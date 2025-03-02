@@ -1,0 +1,4 @@
+SNO.     NAME         ROLL NO       EMAIL                   Marks1     Marks2     Marks3 
+1    Mayank Mittal   2022101064     mayank123@gmail.com        20        15       86
+2    Sachin Mittal   2002104658     sachin124@gmail.com        15        96       89
+3    Kevin Thaakar   200210456     kevin189@gmail.com        15        98       36

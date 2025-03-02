@@ -1,0 +1,2 @@
+SNO.     NAME         ROLL NO       EMAIL                   Marks1     Marks2     Marks3 
+1    Mayank Mittal   2022101094     mayank123@gmail.com        10        20       30
